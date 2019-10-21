@@ -35,9 +35,9 @@
     "grunt-cli": "^0.1.13",
     "grunt-contrib-clean": "^2.0.0",
     "grunt-contrib-concat": "^1.0.1",
-    "grunt-contrib-jshint": "~2.0.0",
-    "grunt-contrib-jst": "~0.5.0",
-    "grunt-contrib-less": "~2.0.0",
+    "grunt-contrib-jshint": "~0.1.0",
+    "grunt-contrib-jst": "~1.0.0",
+    "grunt-contrib-less": "~0.5.0",
     "grunt-contrib-uglify": "^2.0.0",
     "grunt-contrib-watch": "^1.0.0"
   }
